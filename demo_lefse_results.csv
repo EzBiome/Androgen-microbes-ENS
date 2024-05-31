@@ -1,0 +1,19 @@
+"Feature","Group","LDA Effect Size"
+"Quorum_sensing___ko02024_","Group 1",3.95643948094871
+"Pentose_phosphate_pathway___ko00030_","Group 1",3.51265868339144
+"Peptidoglycan_biosynthesis_and_degradation_proteins___ko01011_","Group 1",3.48919950305803
+"Glycerolipid_metabolism___ko00561_","Group 1",3.3708042916778
+"Lysine_biosynthesis___ko00300_","Group 1",3.3696789821129
+"Glycosyltransferases___ko01003_","Group 1",3.17772179369138
+"Bacterial_toxins___ko02042_","Group 1",2.9216671972861
+"Cofactor_metabolism__ko99987_","Group 1",2.91205633161163
+"Protein_phosphatases_and_associated_proteins___ko01009_","Group 1",2.65898647667165
+"Phosphonate_and_phosphinate_metabolism___ko00440_","Group 2",2.17305573410673
+"Carotenoid_biosynthesis___ko00906_","Group 2",1.64337740608747
+"Biosynthesis_of_various_other_secondary_metabolites___ko00997_","Group 2",1.25951376673062
+"Cytochrome_P450___ko00199_","Group 2",0.726055560666504
+"Serotonergic_synapse___ko04726_","Group 2",0.533180605452838
+"Dopaminergic_synapse___ko04728_","Group 2",0.44394006210149
+"Cocaine_addiction___ko05030_","Group 2",0.433505966763872
+"Amphetamine_addiction___ko05031_","Group 2",0.419810577694624
+"Alcoholism___ko05034_","Group 2",0.416356213310177
